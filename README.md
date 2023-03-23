@@ -36,7 +36,7 @@ Wargroove
 </details>
 
 <details open>
-<summary>Software</summary>
+<summary><h3>Software</h3></summary>
 <br>
 
 Aseprite
@@ -51,7 +51,7 @@ Raycast
 </details>
 
 <details open>
-<summary>Hardware</summary>
+<summary><h3>Hardware</h3></summary>
 <br>
 
 M1 MacBook Air
