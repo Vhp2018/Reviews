@@ -2,11 +2,11 @@
 Reviews on Softwares, Games, Hardware, and anything else I like
 
 <details open>
-<summary>Index</summary>
+<summary><h2>Index</h2></summary>
 <br>
 
 <details open>
-<summary>Indie Games</summary>
+<summary><h3>Indie Games</h3></summary>
 <br>
 
 Astral Ascent
