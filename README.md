@@ -9,6 +9,8 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <summary><h3>Indie Games</h3></summary>
 <br>
 
+<ul>
+
 Astral Ascent
 
 Chained Echoes
@@ -32,12 +34,15 @@ Salt and Sanctuary
 Terraria
 
 Wargroove
+</ul>
 
 </details>
 
 <details open>
 <summary><h3>Software</h3></summary>
 <br>
+
+<ul>
 
 Aseprite
 
@@ -46,7 +51,7 @@ Godot
 Arc Browser
 
 Raycast
-
+</ul>
 
 </details>
 
