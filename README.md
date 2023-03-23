@@ -74,10 +74,12 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 ### Astral Ascent
 
+##### Thursday, March 23, 2023
+
 #### Overview
 
 - Although still in Open Beta Astral Ascent is a 2D Pixel Art Rogue-lite game that captured my heart and attention with a gorgeous artstyle and fantastic ambiance. The main story of the game centers around 4 main Characters, Alya, Kiren, Octave, and Calie with one more to be announced upon official release (most likely DLC content).
-- In Astral Ascent your home base, or what the characters would call their prison, is also called "The Garden" which is guarded by the 12 Zodiacs. As you make your Ascent you will go through four different zones before facing a final boss. At the end of each of these four zones you will be faced by one of three possible Zodiacs chosen to guard that specific biome.
+- In Astral Ascent your home base, or what the characters would call their prison, is also called "The Garden" which is guarded by the 12 Zodiacs. As you make your Ascent you will go through four different zones before facing a final boss (unreleased). At the end of each of these four zones you will be faced by one of three possible Zodiacs chosen to guard that specific biome.
 - Alaya, the Assassin: Since she can remember Alaya has lived in the Garden, it is where she trains, fights, eats, sleeps, and plays. However, Alaya's dreams lies beyond the Garden towards the world outside
 - Kiren, the Brawler?: Not sure haven't explored his story much yet but seems that he has lived in the Garden since a young age as well
 - Octave, the Gunslinger: Driven by a desire for revenge Octave has entered the Garden of his own free will to finally learn the truth about what happened to his mother, why she was betrayed, and who she was betrayed by as to finally get vengence fo the wrongs down to her.
