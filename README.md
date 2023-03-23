@@ -10,8 +10,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <br>
 <ul>
 
-- [Astral Ascent](# Astral-Ascent)
-
+- (Astral Ascent)[#astral-ascent]
 
 - Chained Echoes
 
