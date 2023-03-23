@@ -6,7 +6,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <br>
 
 <details open>
-<summary>Indie Games</summary>
+<summary>## Indie Games</summary>
 <br>
 
 Astral Ascent
