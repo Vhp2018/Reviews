@@ -42,13 +42,13 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <br>
 <ul>
 
-Aseprite
+- Aseprite
 
-Godot
+- Godot
 
-Arc Browser
+- Arc Browser
 
-Raycast
+- Raycast
 </ul>
 
 </details>
@@ -58,15 +58,18 @@ Raycast
 <br>
 <ul>
 
-M1 MacBook Air
+- M1 MacBook Air
 
-Logitech G305
+- Logitech G305
 
-8-Bit Do Controller
+- 8-Bit Do Controller
 </ul>
 
 </details>
 
 
-
 </details>
+
+## Indie Games
+
+
