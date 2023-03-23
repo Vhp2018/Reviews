@@ -10,29 +10,29 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <br>
 <ul>
 
-Astral Ascent
+- Astral Ascent
 
-Chained Echoes
+- Chained Echoes
 
-CrossCode
+- CrossCode
 
-Dead Cells
+- Dead Cells
 
-Fell's Seal
+- Fell's Seal
 
-Hades
+- Hades
 
-Hollow Knight
+- Hollow Knight
 
-Mark of the Ninja
+- Mark of the Ninja
 
-Monster Sanctuary
+- Monster Sanctuary
 
-Salt and Sanctuary
+- Salt and Sanctuary
 
-Terraria
+- Terraria
 
-Wargroove
+- Wargroove
 </ul>
 
 </details>
