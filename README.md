@@ -8,7 +8,6 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <details open>
 <summary><h3>Indie Games</h3></summary>
 <br>
-
 <ul>
 
 Astral Ascent
@@ -41,7 +40,6 @@ Wargroove
 <details open>
 <summary><h3>Software</h3></summary>
 <br>
-
 <ul>
 
 Aseprite
@@ -58,13 +56,14 @@ Raycast
 <details open>
 <summary><h3>Hardware</h3></summary>
 <br>
+<ul>
 
 M1 MacBook Air
 
 Logitech G305
 
 8-Bit Do Controller
-
+</ul>
 
 </details>
 
