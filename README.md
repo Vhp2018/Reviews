@@ -76,7 +76,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 #### Overview
 
--Astral Ascent is a 2D Pixel Art Rogue-lite game with a gorgeous artstyle and fantastic ambiance.
+- Astral Ascent is a 2D Pixel Art Rogue-lite game with a gorgeous artstyle and fantastic ambiance.
   
    
 
