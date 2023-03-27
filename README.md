@@ -20,7 +20,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 - Fell's Seal
 
-- Hades
+- [Hades](#Hades)
 
 - Hollow Knight
 
@@ -113,6 +113,13 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 - However for me personally a 10/10 might be out of reach, the only Rogue-lite game that can achieve a score that high has got to be Hades by Supergiant games. Though many of the aspects from Hades that I love are here, and maybe this is due to the game's early access state but I don't get the same level of Immersion that I did while playing Zagreus
 - That is not to say that the combat falls behind Hades, in fact I absolutley love the combat and the controls. This is definitly a game I will keep playing a keep a close watch on as it nears final release. 
 - I'll be back to give my thoughts on the final release and the DLC (that is if I get my 20hrs of playtime for my money's worth, which honestly I do not think will be hard as I have just hit 10 hrs and just unlocked a new hero.
+
+
+### Hades
+
+##### Monday, March 27, 2023
+
+#### Overviews
   
    
 
