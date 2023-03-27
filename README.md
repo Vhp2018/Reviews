@@ -119,7 +119,21 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 ##### Monday, March 27, 2023
 
-#### Overviews
+#### Overview
+
+- Hades is a beautiful isometric roguelike set in one of my favorite time periods and mythologies, Ancient Greek
+- The main character Zagreus is the son of Hades however since he was born he has never left the underworld
+- For a mysterious reason Hades and all of the underworld are against Zagreus's escape, however the gods of olympus feel sympathy for their kin and bless Zagreus with skills and boons to continue his ascent and finally reach the world above
+- As I actually quite enjoyed the story I will stay away from spoilers as much as I can
+
+#### Pros
+
+- Zagreus has access to 5 different weapons: swords, spears, shields, gauntlets, and guns, however build variety does not end there, each weapon has 4 different aspect 3 of which are able to be aquired after unlockining the weapons and beating the first boss of the game. The final aspect or the so called 'hidden aspect' has its own specfic set of conditions for you to be able to even view or unlock it.
+- On top of this there are a variety of 'Daedelus Hammer' upgrades that you can find throughout your run (maximum of 2 per run) and will give you an upgrade specific to your weapon.
+- In addition with the blessing I mentioned before you can upgrade your basic attack, special attack, cast & dash in addition to aquiring a variety of passive effects, many of these blessings can be upgraded using a pomograte (in a nice little call back to the story of Hades and Persephone). There are also some special cases, legendary boons can be found after aquiring some specfic boons, in addition to duo boons which can combine the abilities of two olympians. Finally there is Hermes, he appears rarely but has some of the best upgrades in the game (one of which can double your dash count from 2 to 4).
+
+
+
   
    
 
