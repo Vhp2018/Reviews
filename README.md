@@ -171,3 +171,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 - Sometimes has a hard time pairing 
 - Not 100% sure all 4 modes work right
 
+#### Verdit: 8/10
+
+- A very good controller that is help back by minor bugs (that may just be due to time)
+- It suffers from being outdated but a version 2.0 has been released, however as mine still works (almost) perfectly I probably will not get one until my current one stops working. Or may just wait for 3.0 if that gets announced.
