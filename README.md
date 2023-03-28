@@ -62,7 +62,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 - Logitech G305
 
-- 8-Bit Do Controller
+- [8-Bit Do Controller](#8-Bit-Do)
 </ul>
 
 </details>
