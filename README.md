@@ -10,7 +10,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <br>
 <ul>
 
-- [Astral Ascent](#Astral-Ascent)
+- [Astral Ascent 6/10](#Astral-Ascent)
 
 - Chained Echoes
 
@@ -20,7 +20,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 - Fell's Seal
 
-- [Hades](#Hades)
+- [Hades 10/10](#Hades)
 
 - Hollow Knight
 
