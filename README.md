@@ -134,6 +134,8 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 - One of the many things that drew me away from the Roguelike genre is the feeling of losing all progression on death. However Hades has a plethora of permanent upgrades, hence the name roguelite. There are mirror upgrades that can boost your health, damage, number of dashes and more along with some fun unlockables that can change how your main area looks or even add different types of rooms to your runs.
 - On top of this each characters remembers the number of interations they've had with you in a way that makes it feel like you are growing a relationship with them as Zagreus. Full voice acting that added a whole new level to this. In addiiton to adding some more fun unlockables that can be gifted to you by the varied cast.
 - Hidden Fist Aspect is so fire
+- Runs amazing on M1 Mac (was able to work on a 2013 intel mac too however would need to drop quality for a higher frame rate)
+- As a person that plays mainly controller I was able to achieve a win using the keyboard controls too, both control sets are very fluid and easy to swap between.
 
 #### Cons
 
@@ -151,4 +153,21 @@ Reviews on Softwares, Games, Hardware, and anything else I like
   
    
 
+## Hardware
+
+### 8-Bit Do
+
+##### Monday, March 27, 2023
+
+#### Pros
+
+- An amazing controller with the ability to bluetooth synce to almost any device as almost any device. Though I have only tried it so far on IOS devices I will update this if I attempt to connect to an Xbox. However the 8-Bit Do can be paired as any of 4 options, as the 8-Bit Do itself, as an Xbox Controller, as a Playstation controller, and as a Nintendo Switch controller.
+- Using it on my M1 Mac it will read it as any of those 4 options
+- Uses a rechargable battery that can be charged while in the controller using USB-C
+
+#### Cons
+
+- Can randomly disconnect
+- Sometimes has a hard time pairing 
+- Not 100% sure all 4 modes work right
 
