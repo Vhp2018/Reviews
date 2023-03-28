@@ -159,9 +159,12 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 ##### Monday, March 27, 2023
 
-#### Pros
+#### Overview
 
 - An amazing controller with the ability to bluetooth synce to almost any device as almost any device. Though I have only tried it so far on IOS devices I will update this if I attempt to connect to an Xbox. However the 8-Bit Do can be paired as any of 4 options, as the 8-Bit Do itself, as an Xbox Controller, as a Playstation controller, and as a Nintendo Switch controller.
+
+#### Pros
+
 - Using it on my M1 Mac it will read it as any of those 4 options
 - Uses a rechargable battery that can be charged while in the controller using USB-C
 
