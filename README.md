@@ -143,9 +143,11 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 - More Boons
 - I just want more Hades
 
+#### Verdict: 10/10
 
-
-
+- One of if not the best Indie gamees I have ever played, the combat is so smooth and fast you actually feel like a demigod. In addition to the variety of builds you can play with plus items that can increase your odds of finding a boon you need this game truly lets you go wild with your build and try as many combinations as you want. 
+- The storyline was really good in my humble opinion, plus the whole greek mythology setting is very nostalgic for me. If you have ever read Percy Jackson then you know what I mean. 
+- The bosses have some of the best and most creative attacks I have ever seen. In addition to some fun minibosses. This game can get quite frusterating I have actually only beaten it a handful of times and have yet to see the end credits roll. Writing this reviews has honestly made me feel like going back and completing this game as it is what made me fall in love with the Indie gaming genre.
   
    
 
