@@ -9,6 +9,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <summary><h3>Software</h3></summary>
 <br>
 <ul>
+
 - Arc Browser
 
 - Aseprite
