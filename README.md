@@ -70,6 +70,32 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 </details>
 
+## Hardware
+
+### 8-Bit Do
+
+##### Monday, March 27, 2023
+
+#### Overview
+
+- An amazing controller with the ability to bluetooth synce to almost any device as almost any device. Though I have only tried it so far on IOS devices I will update this if I attempt to connect to an Xbox. However the 8-Bit Do can be paired as any of 4 options, as the 8-Bit Do itself, as an Xbox Controller, as a Playstation controller, and as a Nintendo Switch controller.
+
+#### Pros
+
+- Using it on my M1 Mac it will read it as any of those 4 options
+- Uses a rechargable battery that can be charged while in the controller using USB-C
+
+#### Cons
+
+- Can randomly disconnect
+- Sometimes has a hard time pairing 
+- Not 100% sure all 4 modes work right
+
+#### Verdit: 8/10
+
+- A very good controller that is help back by minor bugs (that may just be due to time)
+- It suffers from being outdated but a version 2.0 has been released, however as mine still works (almost) perfectly I probably will not get one until my current one stops working. Or may just wait for 3.0 if that gets announced.
+
 ## Indie Games
 
 ### Astral Ascent
@@ -153,28 +179,3 @@ Reviews on Softwares, Games, Hardware, and anything else I like
   
    
 
-## Hardware
-
-### 8-Bit Do
-
-##### Monday, March 27, 2023
-
-#### Overview
-
-- An amazing controller with the ability to bluetooth synce to almost any device as almost any device. Though I have only tried it so far on IOS devices I will update this if I attempt to connect to an Xbox. However the 8-Bit Do can be paired as any of 4 options, as the 8-Bit Do itself, as an Xbox Controller, as a Playstation controller, and as a Nintendo Switch controller.
-
-#### Pros
-
-- Using it on my M1 Mac it will read it as any of those 4 options
-- Uses a rechargable battery that can be charged while in the controller using USB-C
-
-#### Cons
-
-- Can randomly disconnect
-- Sometimes has a hard time pairing 
-- Not 100% sure all 4 modes work right
-
-#### Verdit: 8/10
-
-- A very good controller that is help back by minor bugs (that may just be due to time)
-- It suffers from being outdated but a version 2.0 has been released, however as mine still works (almost) perfectly I probably will not get one until my current one stops working. Or may just wait for 3.0 if that gets announced.
