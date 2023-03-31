@@ -10,11 +10,11 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <br>
 <ul>
 
+- Arc Browser
+
 - Aseprite
 
 - Godot
-
-- Arc Browser
 
 - Raycast
 </ul>
