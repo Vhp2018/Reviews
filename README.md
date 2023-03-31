@@ -6,6 +6,22 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <br>
 
 <details open>
+<summary><h3>Software</h3></summary>
+<br>
+<ul>
+
+- Aseprite
+
+- Godot
+
+- Arc Browser
+
+- Raycast
+</ul>
+
+</details>
+
+<details open>
 <summary><h3>Indie Games</h3></summary>
 <br>
 <ul>
@@ -33,22 +49,6 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 - Terraria
 
 - Wargroove
-</ul>
-
-</details>
-
-<details open>
-<summary><h3>Software</h3></summary>
-<br>
-<ul>
-
-- Aseprite
-
-- Godot
-
-- Arc Browser
-
-- Raycast
 </ul>
 
 </details>
