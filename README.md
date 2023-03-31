@@ -22,6 +22,20 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 </details>
 
 <details open>
+<summary><h3>Hardware</h3></summary>
+<br>
+<ul>
+
+- M1 MacBook Air
+
+- Logitech G305
+
+- [8-Bit Do Controller: 8/10](#8-Bit-Do)
+</ul>
+
+</details>
+
+<details open>
 <summary><h3>Indie Games</h3></summary>
 <br>
 <ul>
@@ -49,20 +63,6 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 - Terraria
 
 - Wargroove
-</ul>
-
-</details>
-
-<details open>
-<summary><h3>Hardware</h3></summary>
-<br>
-<ul>
-
-- M1 MacBook Air
-
-- Logitech G305
-
-- [8-Bit Do Controller: 8/10](#8-Bit-Do)
 </ul>
 
 </details>
