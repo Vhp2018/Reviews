@@ -42,6 +42,8 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 - [Astral Ascent: 6/10](#Astral-Ascent)
 
+- Blasphemous
+
 - Chained Echoes
 
 - CrossCode
