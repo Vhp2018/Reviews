@@ -40,7 +40,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 <br>
 <ul>
 
-- [Astral Ascent: 6/10](#Astral-Ascent)
+- [Astral Ascent *Early Access*](#Astral-Ascent)
 
 - Blasphemous
 
