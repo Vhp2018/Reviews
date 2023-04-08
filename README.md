@@ -30,7 +30,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 - Logitech G305
 
-- [8-Bit Do Controller: 8/10](#8-Bit-Do)
+- [8-Bit Do Controller: *8/10*](#8-Bit-Do)
 </ul>
 
 </details>
@@ -52,7 +52,7 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 
 - Fell's Seal
 
-- [Hades: 10/10](#Hades)
+- [Hades: *10/10*](#Hades)
 
 - Hollow Knight
 
@@ -61,6 +61,8 @@ Reviews on Softwares, Games, Hardware, and anything else I like
 - Monster Sanctuary
 
 - Salt and Sanctuary
+
+- Spiritfall *Early Access*
 
 - Terraria
 
